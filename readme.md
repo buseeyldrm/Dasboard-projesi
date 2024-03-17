@@ -7,3 +7,5 @@
 ![](image/weather.png)
 
 ![](image/weather-2.png)
+
+![](image/news.png)
